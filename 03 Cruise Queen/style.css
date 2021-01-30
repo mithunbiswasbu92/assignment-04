@@ -8,6 +8,7 @@
 body{
     font-family: 'Roboto', sans-serif;
     background:url("images/ship.png");
+    height: 840px;
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: scroll;
@@ -130,15 +131,16 @@ nav ul li a:hover, a.active{
 }
 #conform-area{
     font-family: 'Bebas Neue', cursive;
-    color: white;
+    color: lightgoldenrodyellow;
     display: none;
     height: 150px;
     width: 600px;
     text-align: center;
-    background-color: #80808059;
+    background-color: #80808048;
     border-radius: 10px;
     padding: 20px;
     margin-left: 40px;
+    margin-top: 140px;
 }
 #conform-area h1{
     font-size: 50px;
